@@ -1,0 +1,15 @@
+ThreadID: 14 Miner: 1 Smelter: 0 Transporter: 0 Constructor: 0 Action: MINER_CREATED TimeStamp: 40932357.134583 ms 
+ThreadID: 14 Miner: 1 Smelter: 0 Transporter: 0 Constructor: 0 Action: MINER_STARTED TimeStamp: 40932361.364375 ms 
+ThreadID: 13 Miner: 0 Smelter: 0 Transporter: 1 Constructor: 0 Action: TRANSPORTER_CREATED TimeStamp: 40932357.134917 ms 
+ThreadID: 13 Miner: 1 Smelter: 0 Transporter: 1 Constructor: 0 Action: TRANSPORTER_GO TimeStamp: 40932362.801292 ms 
+ThreadID: 15 Miner: 0 Smelter: 0 Transporter: 0 Constructor: 1 Action: CONSTRUCTOR_CREATED TimeStamp: 40932357.154125 ms 
+ThreadID: 14 Miner: 1 Smelter: 0 Transporter: 0 Constructor: 0 Action: MINER_FINISHED TimeStamp: 40932392.224708 ms 
+ThreadID: 14 Miner: 1 Smelter: 0 Transporter: 0 Constructor: 0 Action: MINER_STOPPED TimeStamp: 40932393.081542 ms 
+ThreadID: 13 Miner: 1 Smelter: 0 Transporter: 1 Constructor: 0 Action: TRANSPORTER_ARRIVE TimeStamp: 40932393.271125 ms 
+ThreadID: 13 Miner: 1 Smelter: 0 Transporter: 1 Constructor: 0 Action: TRANSPORTER_TAKE TimeStamp: 40932395.222167 ms 
+ThreadID: 13 Miner: 1 Smelter: 0 Transporter: 1 Constructor: 1 Action: TRANSPORTER_GO TimeStamp: 40932395.594333 ms 
+ThreadID: 13 Miner: 0 Smelter: 0 Transporter: 1 Constructor: 1 Action: TRANSPORTER_ARRIVE TimeStamp: 40932408.629667 ms 
+ThreadID: 13 Miner: 0 Smelter: 0 Transporter: 1 Constructor: 1 Action: TRANSPORTER_DROP TimeStamp: 40932409.382167 ms 
+ThreadID: 13 Miner: 1 Smelter: 0 Transporter: 1 Constructor: 1 Action: TRANSPORTER_GO TimeStamp: 40932409.854583 ms 
+ThreadID: 13 Miner: 0 Smelter: 0 Transporter: 1 Constructor: 0 Action: TRANSPORTER_STOPPED TimeStamp: 40932411.614500 ms 
+ThreadID: 15 Miner: 0 Smelter: 0 Transporter: 0 Constructor: 1 Action: CONSTRUCTOR_STOPPED TimeStamp: 40932412.372375 ms 
